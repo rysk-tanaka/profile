@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rysk-tanaka.github.io/profile/sitemap.xml
+Sitemap: https://profile.dev.rysk.jpbrank/sitemap.xml
