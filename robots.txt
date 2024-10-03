@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://profile.dev.rysk.jpblank/sitemap.xml
+Sitemap: https://profile.dev.rysk.jp/sitemap.xml
